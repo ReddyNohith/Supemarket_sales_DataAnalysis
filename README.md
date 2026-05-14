@@ -8,7 +8,7 @@ This project includes:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 supermarket-sales-analysis/
@@ -21,7 +21,7 @@ supermarket-sales-analysis/
 
 ---
 
-## 📦 Dataset Overview
+## Dataset Overview
 
 | Property | Details |
 |----------|---------|
@@ -62,7 +62,7 @@ supermarket-sales-analysis/
 
 ---
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 
 The dashboard is exported as a 2-page PDF and covers all major dimensions of the dataset with interactive slicers.
 
@@ -105,7 +105,7 @@ The dashboard is exported as a 2-page PDF and covers all major dimensions of the
 
 ---
 
-## 🐍 Jupyter Notebook Walkthrough
+## Jupyter Notebook Walkthrough
 
 **File:** `supermarket_analysis.ipynb`
 **Libraries:** `pandas` · `numpy` · `matplotlib` only
@@ -146,7 +146,7 @@ The notebook is written in 16 clear steps, each with a short explanation and a c
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 ### Sales & Revenue
 
@@ -177,7 +177,7 @@ The notebook is written in 16 clear steps, each with a short explanation and a c
 
 ---
 
-## 🚀 How to Run the Notebook
+## How to Run the Notebook
 
 ### Requirements
 
@@ -205,7 +205,7 @@ pip install pandas numpy matplotlib jupyter
 
 ---
 
-## 📌 Important Notes
+## Important Notes
 
 - The `Tax 5%` column is a calculated field (5% of pre-tax subtotal). It was not used as an independent analysis variable in the notebook.
 - The dashboard PDF was captured with a **slicer filter active** (Product line = Home and Lifestyle on Page 2), so its KPI numbers are lower than the notebook's full-dataset figures.
@@ -214,7 +214,7 @@ pip install pandas numpy matplotlib jupyter
 
 ---
 
-## 👤 Author
+## Author
 
 | Field | Details |
 |-------|---------|
